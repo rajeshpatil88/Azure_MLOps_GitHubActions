@@ -7,7 +7,6 @@ on:
  
  
 # CONFIGURATION 
-
 # 1. Set up the following secrets in your repository: 
 #   AZURE_RESOURCE_GROUP 
 #   STORAGE_ACCOUNT 
