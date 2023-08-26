@@ -11,7 +11,7 @@
     },
     "sku": {
       "type": "string",
-      "defaultValue": "basic",
+      "defaultValue": "free",
       "allowedValues": [
         "basic",
         "enterprise"
