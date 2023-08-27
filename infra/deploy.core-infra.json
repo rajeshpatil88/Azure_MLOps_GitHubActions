@@ -11,10 +11,9 @@
     },
     "sku": {
       "type": "string",
-      "defaultValue": "free",
+      "defaultValue": "basic",
       "allowedValues": [
         "basic",
-        "free",
         "enterprise"
       ],
       "metadata": {
